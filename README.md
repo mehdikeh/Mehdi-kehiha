@@ -16,3 +16,7 @@ langage **Markdown**.
 - découvrir GitHub ; 
 - organiser des fichiers ;
   - apprendre les bases du Markdown.
+
+ ## Illustration 
+ 
+ ![Illustration de mon dépôt](illustration.jpg)
