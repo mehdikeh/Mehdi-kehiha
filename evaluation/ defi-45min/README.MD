@@ -5,5 +5,5 @@
  Publier un mini-dossier technique de serre connectée, correctement organisé et consultable. Les deux
 supports de cours sont autorisés
 
-notebook
+[notebook](docs/CONTRIBUTING.md
 
